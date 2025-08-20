@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranayvasanth
-- 👀 I’m interested in web-development 
-- 🌱 I’m currently learning full-stack web-development
-- 📫 How to reach me : mail me at pranay.vasanth@gmail.com
+- 👀 I’m interested in Java development 
+- 🌱 I’m currently learning Spring-Boot.
+- 📫 How to reach me: mail me at pranay.vasanth@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
