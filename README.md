@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pranayvasanth
-- 👀 I’m interested in Java development 
-- 🌱 I’m currently learning Spring-Boot.
+- 👋 Hi, I’m @pranayvasanth a CSE Graduate. 
+- 👀 I’m interested in SOC, SIEM & Pentesting
+- 🌱 I’m currently learning Pentesting.
 - 📫 How to reach me: mail me at pranay.vasanth@gmail.com
 - 😄 Pronouns: he/him
 
